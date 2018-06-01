@@ -1,0 +1,49 @@
+Here is a list of free books for #DataScience & #MachineLearning that are worth checking out (Part 3):
+
+- - -
+(**) - Recommended
+
+📕 Data Visualization
+Handbook of Data Visualization (**)
+https://lnkd.in/gFbtXrr
+Interactive Data Visualization for the Web
+https://lnkd.in/gnWStrh
+Show Me the Numbers
+https://lnkd.in/g5jktgX
+Data Points Visualizations that Mean Something
+https://lnkd.in/gb-e9wD
+
+📗 Machine Learning
+Hands On Machine Learning with Scikit Learn and TensorFlow (**)
+https://lnkd.in/gMbz3_F
+Introduction to Machine Learning with Python
+https://lnkd.in/g_ZssSB
+Deep Learning with Python (**)
+https://lnkd.in/gMJaSiF
+
+📘 Data Science
+Python for Data Analysis (**)
+https://lnkd.in/gzeekDc
+Data Science for Business (**)
+https://lnkd.in/g5H7G2b
+Practical Data Science with R
+https://lnkd.in/g_tDSDv
+Data Science at the Command Line
+https://lnkd.in/gsdfERg
+
+📙 Programming
+Cracking the Coding Interview (**)
+https://lnkd.in/g_-y-GQ
+R in a Nutshell
+https://lnkd.in/gcsX_zz
+Learn Python the Hard Way
+https://lnkd.in/gcFvYER
+
+📒 Other
+Mining the Social Web
+https://lnkd.in/ghQmKMT 
+Master Algorithm by Pedro Dominguez 
+https://lnkd.in/g4cPRUq
+
+- - -
+The other list of books are at ClaoudML - http://www.ClaoudML.co
